@@ -32,4 +32,4 @@ inputsubmit.addEventListener("click", function (event) {
         "\nemail: " + inputemail.value +
         "\npassword: " + inputpassword.value
     );
-});
+}); 
